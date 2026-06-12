@@ -1,0 +1,5 @@
+{
+  "name": "PaleChain",
+  "description": "Multi-chain crypto explorer for TON, BTC, ETH, LTC and TRON. Search wallets, browse transaction history, NFTs, tokens, and send TON messages directly from the explorer.",
+  "requestFramePermissions": []
+}
